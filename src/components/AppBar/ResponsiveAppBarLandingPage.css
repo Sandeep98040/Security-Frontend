@@ -1,0 +1,73 @@
+/* .app-img {
+    height: 40px;
+}
+
+li {
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+.carousel-section img {
+    height: 450px;
+}
+
+button {
+    padding: 9px !important;
+}
+
+.row-carousel {
+    height: 200px;
+} */
+
+
+.app-img {
+    height: 40px;
+}
+
+li {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-left: 20px; /* Adjust the margin as needed for indentation */
+}
+
+.carousel-section img {
+    height: 450px;
+}
+
+button {
+    padding: 9px !important;
+}
+
+.row-carousel {
+    height: 200px;
+}
+
+/* Custom styles for navbar */
+.custom-navbar {
+    border-radius: 12px;
+    background-color: aliceblue;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.custom-navbar .navbar-start,
+.custom-navbar .navbar-center,
+.custom-navbar .navbar-end {
+    align-items: center;
+}
+
+.custom-navbar .navbar-center ul {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.custom-navbar .navbar-center ul li {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
